@@ -15,7 +15,7 @@ const DropdownUser = () => {
       >
         <span className="hidden text-right lg:block">
           <span className="block text-sm font-medium text-black dark:text-white">
-            Thomas Anree
+            Mridul Bhakta
           </span>
           <span className="block text-xs">UX Designer</span>
         </span>
@@ -24,7 +24,7 @@ const DropdownUser = () => {
           <Image
             width={112}
             height={112}
-            src={"/images/user/user-01.png"}
+            src={"/demo_profile.enc"}
             style={{
               width: "auto",
               height: "auto",
